@@ -1,0 +1,9 @@
+{
+  "onReachBottomDistance": 100,
+  "navigationBarTitleText": "售罄商品",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "shop-item": "/pages/product/components/shopItem",
+    "search": "/pages/product/components/search"
+  }
+}

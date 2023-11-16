@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "修改手机号",
+  "usingComponents": {
+    "authorize": "/components/Authorize",
+    "verify": "/components/verify/verify"
+  }
+}

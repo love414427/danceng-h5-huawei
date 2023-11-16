@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/goodList/index"],{"07ab":function(t,n,i){"use strict";var e=i("65f1"),a=i.n(e);a.a},"1f49":function(t,n,i){"use strict";(function(t){Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var e=i("26cb"),a=i("f823"),o=i("041f"),u=i("ddb3"),c={computed:(0,e.mapGetters)(["uid","viewColor"]),props:{status:{type:Number,default:0},bastList:{type:Array,default:function(){return[]}},isLogin:{type:Boolean,default:!1}},data:function(){return{}},methods:{goDetail:function(n){var i=this;(0,a.goShopDetail)(n,this.uid).then((function(e){i.isLogin?(0,o.initiateAssistApi)(n.activity_id).then((function(n){var i=n.data.product_assist_set_id;t.hideLoading(),t.navigateTo({url:"/pages/activity/assist_detail/index?id="+i})})).catch((function(n){t.showToast({title:n,icon:"none"})})):(0,u.toLogin)()}))}}};n.default=c}).call(this,i("543d")["default"])},"3bfc":function(t,n,i){"use strict";i.d(n,"b",(function(){return e})),i.d(n,"c",(function(){return a})),i.d(n,"a",(function(){}));var e=function(){var t=this.$createElement;this._self._c},a=[]},"65f1":function(t,n,i){},"9a6c":function(t,n,i){"use strict";i.r(n);var e=i("3bfc"),a=i("aa0c");for(var o in a)["default"].indexOf(o)<0&&function(t){i.d(n,t,(function(){return a[t]}))}(o);i("07ab");var u=i("f0c5"),c=Object(u["a"])(a["default"],e["b"],e["c"],!1,null,"8c195686",null,!1,e["a"],void 0);n["default"]=c.exports},aa0c:function(t,n,i){"use strict";i.r(n);var e=i("1f49"),a=i.n(e);for(var o in e)["default"].indexOf(o)<0&&function(t){i.d(n,t,(function(){return e[t]}))}(o);n["default"]=a.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/goodList/index-create-component',
+    {
+        'components/goodList/index-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("9a6c"))
+        })
+    },
+    [['components/goodList/index-create-component']]
+]);

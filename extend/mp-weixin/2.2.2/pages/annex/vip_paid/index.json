@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "开通会员",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "payment": "/components/payment/index"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "商品分类",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "custom-tab": "/components/customTab",
+    "password-popup": "/components/passwordPopup/index"
+  }
+}

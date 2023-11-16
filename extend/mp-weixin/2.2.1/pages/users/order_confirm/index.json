@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "提交订单",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "coupon-list-window": "/components/orderCoupon/index",
+    "address-window": "/components/addressWindow/index",
+    "order-goods": "/components/orderGoods/index",
+    "check-delivery": "/components/checkDelivery/index",
+    "add-invoicing": "/components/addInvoicing/index",
+    "discount-details": "/components/discountDetails/index",
+    "authorize": "/components/Authorize"
+  }
+}

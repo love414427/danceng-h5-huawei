@@ -1,0 +1,1 @@
+<view class="lines data-v-66b0500c" style="{{('padding:14rpx '+lrEdge+'rpx;padding-top:'+mbConfig+'rpx;')}}"><view class="item data-v-66b0500c" style="{{('border-bottom-width:'+heightConfig+'rpx;border-bottom-color:'+lineColor+';border-bottom-style:'+lineStyle+';')}}"></view></view>

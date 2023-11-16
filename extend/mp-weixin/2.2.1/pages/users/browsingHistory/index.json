@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "浏览记录",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "empty-page": "/components/emptyPage"
+  }
+}

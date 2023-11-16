@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "内容详情",
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "product-con-swiper": "/components/plantConSwiper/index",
+    "mentioned": "/components/mentioned",
+    "bindmobile": "/components/bindmobile"
+  }
+}

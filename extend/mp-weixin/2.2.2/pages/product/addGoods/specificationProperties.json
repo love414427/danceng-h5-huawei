@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "规格属性",
+  "usingComponents": {
+    "specification-attr": "/pages/product/components/specificationAttr"
+  }
+}

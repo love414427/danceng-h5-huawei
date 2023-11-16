@@ -1,0 +1,1 @@
+.bill-details .nav.data-v-f56448b4{background-color:#fff;height:90rpx;width:100%;line-height:90rpx}.bill-details .nav .item.data-v-f56448b4{flex:1;text-align:center;font-size:30rpx;color:#282828}.bill-details .nav .item.on.data-v-f56448b4{color:var(--view-theme);border-bottom:3rpx solid var(--view-theme)}.p-color.data-v-f56448b4{color:var(--view-priceColor)!important}

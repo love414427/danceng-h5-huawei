@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商品列表",
+  "usingComponents": {
+    "waterfalls-flow": "/components/WaterfallsFlow/WaterfallsFlow",
+    "password-popup": "/components/passwordPopup/index",
+    "recommend": "/components/recommend/index",
+    "right-slider": "/components/rightSlider"
+  }
+}

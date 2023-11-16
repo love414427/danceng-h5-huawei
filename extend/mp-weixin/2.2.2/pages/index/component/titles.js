@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/index/component/titles"],{"22de":function(t,i,n){"use strict";Object.defineProperty(i,"__esModule",{value:!0}),i.default=void 0;var e=n("3255"),o={name:"titles",props:{dataConfig:{type:Object,default:function(){}},merId:{type:String||Number,default:""}},data:function(){return{fontSize:2*this.dataConfig.fontSize.val,linkConfig:this.dataConfig.linkConfig.value,mbConfig:2*this.dataConfig.mbConfig.val,prConfig:2*this.dataConfig.prConfig.val,textPosition:this.dataConfig.textPosition.type,textStyle:this.dataConfig.textStyle.type,titleColor:this.dataConfig.titleColor.color[0].item,titleConfig:this.dataConfig.titleConfig.value,textColor:this.dataConfig.themeColor.color[0].item,bgStyle:this.dataConfig.bgStyle.type?"16":"0"}},created:function(){},methods:{path:function(t){return(0,e.merPath)(t,this.merId)}}};i.default=o},"2fd5":function(t,i,n){},9995:function(t,i,n){"use strict";n.r(i);var e=n("c709"),o=n("cda5");for(var a in o)["default"].indexOf(a)<0&&function(t){n.d(i,t,(function(){return o[t]}))}(a);n("c1a3");var f=n("f0c5"),r=Object(f["a"])(o["default"],e["b"],e["c"],!1,null,"71b4734f",null,!1,e["a"],void 0);i["default"]=r.exports},c1a3:function(t,i,n){"use strict";var e=n("2fd5"),o=n.n(e);o.a},c709:function(t,i,n){"use strict";n.d(i,"b",(function(){return e})),n.d(i,"c",(function(){return o})),n.d(i,"a",(function(){}));var e=function(){var t=this.$createElement,i=(this._self._c,this.titleConfig?this.path(this.linkConfig):null);this.$mp.data=Object.assign({},{$root:{m0:i}})},o=[]},cda5:function(t,i,n){"use strict";n.r(i);var e=n("22de"),o=n.n(e);for(var a in e)["default"].indexOf(a)<0&&function(t){n.d(i,t,(function(){return e[t]}))}(a);i["default"]=o.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/index/component/titles-create-component',
+    {
+        'pages/index/component/titles-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("9995"))
+        })
+    },
+    [['pages/index/component/titles-create-component']]
+]);

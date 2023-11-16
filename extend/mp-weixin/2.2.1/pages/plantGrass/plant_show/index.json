@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "种草秀",
+  "usingComponents": {
+    "waterfalls-flow": "/components/plantWaterfallsFlow/WaterfallsFlow",
+    "authorize": "/components/Authorize",
+    "empty-page": "/components/emptyPage"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "退货退款",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "alert-box": "/components/alert/index"
+  }
+}

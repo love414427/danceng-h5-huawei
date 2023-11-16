@@ -1,0 +1,32 @@
+{
+  "navigationBarTitleText": "微页面",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "authorize": "/components/Authorize",
+    "home": "/components/home/index",
+    "active-party": "/pages/index/component/activeParty",
+    "header-serch": "/pages/index/component/headerSerch",
+    "home-comb": "/pages/index/component/homeComb",
+    "bargain": "/pages/index/component/bargain",
+    "coupon": "/pages/index/component/coupon",
+    "blank-page": "/pages/index/component/blankPage",
+    "combination": "/pages/index/component/combination",
+    "customer-service": "/pages/index/component/customerService",
+    "good-list": "/pages/index/component/goodList",
+    "guide": "/pages/index/component/guide",
+    "live-broadcast": "/pages/index/component/liveBroadcast",
+    "menus": "/pages/index/component/menus",
+    "news": "/pages/index/component/news",
+    "topic": "/pages/index/component/topic",
+    "presell-list": "/pages/index/component/presellList",
+    "plant-list": "/pages/index/component/plantList",
+    "picture-cube": "/pages/index/component/pictureCube",
+    "shop-list": "/pages/index/component/shopList",
+    "rich-text": "/pages/index/component/richText",
+    "seckill": "/pages/index/component/seckill",
+    "swiper-bg": "/pages/index/component/swiperBg",
+    "tab-nav": "/pages/index/component/tabNav",
+    "titles": "/pages/index/component/titles",
+    "hot-ranking": "/pages/index/component/hotRanking"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "优惠券商品",
+  "usingComponents": {
+    "password-popup": "/components/passwordPopup/index",
+    "recommend": "/components/recommend/index",
+    "right-slider": "/components/rightSlider",
+    "waterfalls-flow": "/components/WaterfallsFlow/WaterfallsFlow",
+    "authorize": "/components/Authorize"
+  }
+}

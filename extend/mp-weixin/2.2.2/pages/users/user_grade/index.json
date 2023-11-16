@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的等级",
+  "navigationBarBackgroundColor": "#282828",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "recommend": "/components/recommend/index"
+  }
+}

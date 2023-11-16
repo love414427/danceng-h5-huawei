@@ -1,0 +1,1 @@
+<block wx:if="{{description}}"><view class="richText data-v-79f9fff8" style="{{('background-color:'+bgColor+';margin:'+udConfig+'rpx '+lrConfig+'rpx;')}}"><jyf-parser vue-id="7bbdf255-1" domain="{{domain}}" html="{{$root.g0}}" tag-style="{{tagStyle}}" data-ref="article" class="data-v-79f9fff8 vue-ref" bind:__l="__l"></jyf-parser></view></block>

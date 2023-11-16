@@ -1,0 +1,8 @@
+{
+  "onReachBottomDistance": 100,
+  "navigationBarTitleText": "在售商品",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "loading": "/components/Loading/index"
+  }
+}

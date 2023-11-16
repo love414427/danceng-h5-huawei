@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "waterfalls-flow-item": "/components/plantWaterfallsFlowItem/WaterfallsFlowItem",
+    "authorize": "/components/Authorize"
+  }
+}

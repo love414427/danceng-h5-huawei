@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "单规格",
+  "usingComponents": {
+    "select-form": "/pages/product/components/selectForm"
+  }
+}

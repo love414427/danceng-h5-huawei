@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "添加商品",
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "input-goods-detils": "/pages/product/components/inputGoodsDetils",
+    "linkage-assembly": "/pages/product/components/linkageAssembly",
+    "attr": "/pages/product/components/attr",
+    "platfrom": "/pages/product/components/platform",
+    "store-classification": "/pages/product/components/store_classification",
+    "secound": "/pages/product/addGoods/secound",
+    "avatar": "/components/yq-avatar/yq-avatar"
+  }
+}

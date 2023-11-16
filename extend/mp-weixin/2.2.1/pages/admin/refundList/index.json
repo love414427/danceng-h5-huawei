@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "申请退款",
+  "usingComponents": {
+    "authorize": "/components/Authorize",
+    "empty-page": "/components/emptyPage"
+  }
+}

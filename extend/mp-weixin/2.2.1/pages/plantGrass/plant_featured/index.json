@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "为你精选",
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "authorize": "/components/Authorize",
+    "waterfalls-flow": "/components/plantWaterfallsFlow/WaterfallsFlow",
+    "product-con-swiper": "/components/productConSwiper/index",
+    "mentioned": "/components/mentioned",
+    "comment": "/components/comment"
+  }
+}

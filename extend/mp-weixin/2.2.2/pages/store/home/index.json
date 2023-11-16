@@ -1,0 +1,26 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "店铺首页",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "waterfalls-flow": "/components/WaterfallsFlow/WaterfallsFlow",
+    "empty-page": "/components/emptyPage",
+    "active-party": "/pages/index/component/activeParty",
+    "bargain": "/pages/index/component/bargain",
+    "coupon": "/pages/index/component/coupon",
+    "blank-page": "/pages/index/component/blankPage",
+    "combination": "/pages/index/component/combination",
+    "good-list": "/pages/index/component/goodList",
+    "guide": "/pages/index/component/guide",
+    "live-broadcast": "/pages/index/component/liveBroadcast",
+    "menus": "/pages/index/component/menus",
+    "topic": "/pages/index/component/topic",
+    "presell-list": "/pages/index/component/presellList",
+    "rich-text": "/pages/index/component/richText",
+    "seckill": "/pages/index/component/seckill",
+    "swiper-bg": "/pages/index/component/swiperBg",
+    "picture-cube": "/pages/index/component/pictureCube",
+    "titles": "/pages/index/component/titles"
+  }
+}

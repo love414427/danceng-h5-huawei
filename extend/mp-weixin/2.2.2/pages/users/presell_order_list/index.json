@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "预售订单",
+  "usingComponents": {
+    "payment": "/components/payment/index",
+    "empty-page": "/components/emptyPage"
+  }
+}

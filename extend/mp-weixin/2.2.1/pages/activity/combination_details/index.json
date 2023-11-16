@@ -1,0 +1,19 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "拼团详情",
+  "navigationBarBackgroundColor": "#F2F2F2",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "password-popup": "/components/passwordPopup/index",
+    "product-con-swiper": "/components/productConSwiper/index",
+    "product-window": "/components/productWindow/index",
+    "specs": "/components/specs/index",
+    "user-evaluation": "/components/userEvaluation/index",
+    "share-red-packets": "/components/shareRedPackets/index",
+    "home": "/components/home/index",
+    "count-down": "/components/countDown/index",
+    "guarantee-template": "/components/freightGuarantee/index",
+    "copy-password": "/components/copyPassword/index",
+    "authorize": "/components/Authorize"
+  }
+}

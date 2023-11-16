@@ -1,0 +1,1 @@
+<block wx:if="{{heightConfig>0}}"><view class="blankPage" style="{{('height:'+heightConfig+'rpx;')}}"><view class="bankCon" style="{{('background-color:'+bgColor+';height:'+heightConfig+'rpx;')}}"></view></view></block>

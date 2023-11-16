@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/BaseMoney"],{"0811":function(e,t,n){},2874:function(e,t,n){"use strict";n.r(t);var i=n("f539"),a=n.n(i);for(var u in i)["default"].indexOf(u)<0&&function(e){n.d(t,e,(function(){return i[e]}))}(u);t["default"]=a.a},"5e1a":function(e,t,n){"use strict";var i=n("0811"),a=n.n(i);a.a},b280:function(e,t,n){"use strict";n.r(t);var i=n("dad1"),a=n("2874");for(var u in a)["default"].indexOf(u)<0&&function(e){n.d(t,e,(function(){return a[e]}))}(u);n("5e1a");var r=n("f0c5"),o=Object(r["a"])(a["default"],i["b"],i["c"],!1,null,"0829cb9e",null,!1,i["a"],void 0);t["default"]=o.exports},dad1:function(e,t,n){"use strict";n.d(t,"b",(function(){return i})),n.d(t,"c",(function(){return a})),n.d(t,"a",(function(){}));var i=function(){var e=this.$createElement;this._self._c},a=[]},f539:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var i={name:"BaseMoney",props:{digits:{type:Number,default:2},fontWeight:{type:Number|String,default:"inherit"},money:{type:String|Number,default:""},line:{type:Boolean,default:!1},weight:{type:Boolean,default:!1},incolor:{type:String,default:"424242"},symbolSize:{type:String,default:"20"},integerSize:{type:String,default:"26"},decimalSize:{type:String,default:"24"},discount:{type:Boolean,default:!1},inline:{type:Boolean,default:!1}},data:function(){return{integer:0,decimal:0}},watch:{money:{handler:function(e,t){var n=Number(e).toFixed(this.digits);n=n.split("."),this.integer=n[0].replace(/\B(?=(\d{3})+(?!\d))/g,","),n[1]&&(this.decimal=2==n[1].length&&0!=n[1].charAt(1)?n[1]:n[1].charAt(0)||0)},immediate:!0}}};t.default=i}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/BaseMoney-create-component',
+    {
+        'components/BaseMoney-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("b280"))
+        })
+    },
+    [['components/BaseMoney-create-component']]
+]);

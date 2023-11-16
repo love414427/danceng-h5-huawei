@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "多规格",
+  "usingComponents": {
+    "search": "/pages/product/components/search",
+    "select-form": "/pages/product/components/selectForm"
+  }
+}

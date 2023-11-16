@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的收藏",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "authorize": "/components/Authorize"
+  }
+}

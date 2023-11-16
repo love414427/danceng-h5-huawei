@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "会员卡",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#302F35",
+  "usingComponents": {
+    "home": "/components/home/index"
+  }
+}

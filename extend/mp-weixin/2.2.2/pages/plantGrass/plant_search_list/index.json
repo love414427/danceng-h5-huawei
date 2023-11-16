@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索结果",
+  "usingComponents": {
+    "waterfalls-flow": "/components/plantWaterfallsFlow/WaterfallsFlow",
+    "empty-page": "/components/emptyPage"
+  }
+}

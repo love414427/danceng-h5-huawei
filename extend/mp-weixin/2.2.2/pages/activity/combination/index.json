@@ -1,0 +1,11 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "拼团",
+  "navigationBarBackgroundColor": "#F2F2F2",
+  "usingComponents": {
+    "password-popup": "/components/passwordPopup/index",
+    "home": "/components/home/index",
+    "tab-nav": "/components/combinNav/index",
+    "user-name-swiper": "/components/userNameSwiper/userNameSwiper"
+  }
+}

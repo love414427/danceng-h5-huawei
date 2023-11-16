@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "product-window": "/pages/goods_details/productWindow",
+    "count-down": "/components/countDown/index"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "物流信息",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "recommend": "/components/recommend/index"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "loading": "/components/Loading/index",
+    "bindmobile": "/components/bindmobile",
+    "authorize": "/components/Authorize"
+  }
+}

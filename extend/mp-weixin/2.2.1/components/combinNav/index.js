@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/combinNav/index"],{"0085":function(t,n,e){"use strict";e.d(n,"b",(function(){return i})),e.d(n,"c",(function(){return a})),e.d(n,"a",(function(){}));var i=function(){var t=this,n=t.$createElement;t._self._c;t._isMounted||(t.e0=function(n){t.tabsOpen=!0},t.e1=function(n){t.tabsOpen=!1},t.e2=function(n){t.tabsOpen=!1})},a=[]},"477c8":function(t,n,e){"use strict";e.r(n);var i=e("0085"),a=e("4ebd");for(var c in a)["default"].indexOf(c)<0&&function(t){e.d(n,t,(function(){return a[t]}))}(c);e("f311");var u=e("f0c5"),s=Object(u["a"])(a["default"],i["b"],i["c"],!1,null,null,null,!1,i["a"],void 0);n["default"]=s.exports},4920:function(t,n,e){},"4ebd":function(t,n,e){"use strict";e.r(n);var i=e("be6a"),a=e.n(i);for(var c in i)["default"].indexOf(c)<0&&function(t){e.d(n,t,(function(){return i[t]}))}(c);n["default"]=a.a},be6a:function(t,n,e){"use strict";(function(t){Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var i=e("26cb"),a=(getApp(),{name:"navTab",props:{tabTitle:{type:Array,default:function(){}}},computed:(0,i.mapGetters)(["viewColor"]),data:function(){return{tabClick:0,isLeft:0,isWidth:0,tabLeft:0,swiperIndex:0,childIndex:0,childID:0,window:!1,tabsOpen:!1}},created:function(){var n=this;t.getSystemInfo({success:function(t){n.isWidth=t.windowWidth/5}})},methods:{longClick:function(t,n){if(this.childIndex=0,this.tabTitle.length>5){var e=t-2;e=e<=0?0:e,this.tabLeft=(t-2)*this.isWidth}this.tabClick=t,this.isLeft=t*this.isWidth;var i={index:t,pid:n};this.parentEmit(i),this.tabsOpen=!1},parentEmit:function(t){this.$emit("changeTab",t)}}});n.default=a}).call(this,e("543d")["default"])},f311:function(t,n,e){"use strict";var i=e("4920"),a=e.n(i);a.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/combinNav/index-create-component',
+    {
+        'components/combinNav/index-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("477c8"))
+        })
+    },
+    [['components/combinNav/index-create-component']]
+]);

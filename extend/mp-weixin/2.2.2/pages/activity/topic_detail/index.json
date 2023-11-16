@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "主题活动",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "password-popup": "/components/passwordPopup/index",
+    "home": "/components/home/index"
+  }
+}

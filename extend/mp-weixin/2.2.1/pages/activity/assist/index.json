@@ -1,0 +1,10 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "助力列表",
+  "navigationBarBackgroundColor": "#F2F2F2",
+  "usingComponents": {
+    "home": "/components/home/index",
+    "password-popup": "/components/passwordPopup/index",
+    "authorize": "/components/Authorize"
+  }
+}

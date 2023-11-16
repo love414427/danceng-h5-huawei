@@ -1,0 +1,1 @@
+<view class="alert-wrapper" style="{{(viewColor)}}"><view class="alert-box"><image src="{{domain+'/static/diy/success'+keyColor+'.png'}}" mode></image><view class="txt">{{msg}}</view><view data-event-opts="{{[['tap',[['close',['$event']]]]]}}" class="btn" bindtap="__e">我知道了</view></view></view>

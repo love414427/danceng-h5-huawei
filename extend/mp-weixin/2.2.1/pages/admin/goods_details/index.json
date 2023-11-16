@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "home": "/components/home/index",
+    "product-window": "/components/productWindow/index",
+    "product-con-swiper": "/components/productConSwiper/index",
+    "guarantee-template": "/components/freightGuarantee/index",
+    "count-down": "/components/countDown/index"
+  }
+}

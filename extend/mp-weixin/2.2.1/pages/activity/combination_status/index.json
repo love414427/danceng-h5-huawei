@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "拼团状态",
+  "usingComponents": {
+    "count-down": "/components/countDown/index",
+    "product-window": "/components/productWindow/index",
+    "home": "/components/home/index",
+    "canvas-poster": "/pages/activity/combination_poster/index",
+    "copy-password": "/components/copyPassword/index",
+    "authorize": "/components/Authorize"
+  }
+}

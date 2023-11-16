@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "积分详情",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "authorize": "/components/Authorize",
+    "empty-page": "/components/emptyPage"
+  }
+}

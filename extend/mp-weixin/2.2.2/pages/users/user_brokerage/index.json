@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分销等级",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "empty-page": "/components/emptyPage"
+  }
+}

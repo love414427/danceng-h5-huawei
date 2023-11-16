@@ -1,0 +1,299 @@
+{
+  "pages": [
+    "pages/guide/index",
+    "pages/index/index",
+    "pages/order_addcart/order_addcart",
+    "pages/plant_grass/index",
+    "pages/user/index",
+    "pages/small_page/index",
+    "pages/goods_details/index",
+    "pages/goods_cate/goods_cate",
+    "pages/news_list/index",
+    "pages/news_details/index",
+    "pages/auth/index",
+    "pages/order_pay_status/index",
+    "pages/error/index",
+    "pages/order_details/index",
+    "pages/order_details/stay",
+    "pages/order_details/delivery",
+    "pages/order_pay_back/index"
+  ],
+  "subPackages": [
+    {
+      "root": "pages/users",
+      "pages": [
+        "retrievePassword/index",
+        "user_setting/index",
+        "user_about/index",
+        "agreement_rules/index",
+        "user_info/index",
+        "user_nickname/index",
+        "user_get_coupon/index",
+        "user_goods_collection/index",
+        "user_sgin/index",
+        "user_sgin_list/index",
+        "user_money/index",
+        "user_bill/index",
+        "user_integral/index",
+        "user_brokerage/index",
+        "user_grade/index",
+        "user_grade_list/index",
+        "user_coupon/index",
+        "user_spread_user/index",
+        "user_spread_code/index",
+        "user_spread_money/index",
+        "user_cash/index",
+        "user_address_list/index",
+        "user_address/index",
+        "user_phone/index",
+        "user_modify_phone/index",
+        "user_modify_pwd/index",
+        "user_payment/index",
+        "user_pwd_edit/index",
+        "order_confirm/index",
+        "goods_details_store/index",
+        "promoter-list/index",
+        "promoter-order/index",
+        "promoter_rank/index",
+        "commission_rank/index",
+        "order_list/index",
+        "order_list/search",
+        "presell_order_list/index",
+        "goods_logistics/index",
+        "user_return_list/index",
+        "goods_return/index",
+        "login/index",
+        "wechat_login/index",
+        "goods_comment_list/index",
+        "goods_comment_con/index",
+        "feedback/index",
+        "feedback/list",
+        "feedback/detail",
+        "refund/index",
+        "refund/confirm",
+        "refund/detail",
+        "refund/select",
+        "refund/goods/index",
+        "refund/list",
+        "refund/logistics",
+        "browsingHistory/index",
+        "distributor/index",
+        "user_invoice_list/index",
+        "user_invoice_form/index",
+        "user_invoicing/index",
+        "user_invoice_order/index",
+        "privacy/index"
+      ],
+      "name": "users"
+    },
+    {
+      "root": "pages/store",
+      "pages": [
+        "index",
+        "home/index",
+        "detail/index",
+        "list/index",
+        "settled/index",
+        "applicationRecord/index",
+        "merchantDetails/index",
+        "shopStreet/index",
+        "qualifications/index"
+      ],
+      "name": "store"
+    },
+    {
+      "root": "pages/admin",
+      "pages": [
+        "order/index",
+        "orderList/index",
+        "orderRefund/index",
+        "refundList/index",
+        "business/index",
+        "orderDetail/index",
+        "refundDetail/index",
+        "delivery/index",
+        "statistics/index",
+        "order_cancellation/index",
+        "cancellate_result/index",
+        "goods_details/index",
+        "storeDiy/index"
+      ],
+      "name": "adminOrder"
+    },
+    {
+      "root": "pages/product",
+      "pages": [
+        "list/index",
+        "goodsOnSale/index",
+        "soldOutGoods/index",
+        "recycleBin/index",
+        "storeClassification/index",
+        "storeClassification/addStoreClass",
+        "addGoods/index",
+        "addGoods/secound",
+        "addGoods/addGoodDetils",
+        "addGoods/singleSpecification",
+        "addGoods/mulSpecification",
+        "addGoods/specificationProperties",
+        "addGoods/freightTemplate",
+        "addGoods/addFreightTemplate",
+        "addGoods/modifyPrice"
+      ],
+      "name": "product"
+    },
+    {
+      "root": "pages/plantGrass",
+      "pages": [
+        "plant_detail/index",
+        "plant_release/index",
+        "plant_show/index",
+        "plant_topic/index",
+        "plant_search/index",
+        "plant_search_list/index",
+        "plant_featured/index",
+        "plant_user/index",
+        "plant_user_attention/index",
+        "plant_user_fans/index"
+      ],
+      "name": "plant_grass"
+    },
+    {
+      "root": "pages/columnGoods",
+      "pages": [
+        "HotNewGoods/index",
+        "goods_list/index",
+        "goods_coupon_list/index",
+        "goods_search/index",
+        "goods_search_con/index"
+      ],
+      "name": "columnGoods",
+      "plugins": {
+        "live-player-plugin": {
+          "version": "1.3.2",
+          "provider": "wx2b03c6e691cd7370"
+        }
+      }
+    },
+    {
+      "root": "pages/chat",
+      "pages": [
+        "customer_list/index",
+        "customer_list/chat",
+        "customer_login/index",
+        "customer_info/index"
+      ],
+      "name": "chat"
+    },
+    {
+      "root": "pages/activity",
+      "pages": [
+        "goods_seckill/index",
+        "goods_seckill_details/index",
+        "liveBroadcast/index",
+        "presell/index",
+        "presell_details/index",
+        "combination/index",
+        "combination_details/index",
+        "combination_status/index",
+        "assist/index",
+        "assist_detail/index",
+        "assist_record/index",
+        "topic/index",
+        "topic_detail/index",
+        "lifeService/index",
+        "collect_coupons/index",
+        "rank/index"
+      ],
+      "name": "activity"
+    },
+    {
+      "root": "pages/short_video",
+      "pages": [
+        "nvueSwiper/index"
+      ],
+      "name": "shortVideo"
+    },
+    {
+      "root": "pages/points_mall",
+      "pages": [
+        "index",
+        "integral_goods_list",
+        "goods_selection",
+        "integral_goods_details",
+        "integral_order",
+        "exchange_record",
+        "integral_order_details"
+      ]
+    },
+    {
+      "root": "pages/annex",
+      "pages": [
+        "web_view/index",
+        "vip_paid/index",
+        "vip_center/index",
+        "vip_grade/index",
+        "vip_clause/index"
+      ],
+      "name": "annx"
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "加载中...",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F8F8F8",
+    "titleNView": true
+  },
+  "tabBar": {
+    "color": "#282828",
+    "selectedColor": "#E93323",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/1-001.png",
+        "selectedIconPath": "static/images/1-002.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/goods_cate/goods_cate",
+        "iconPath": "static/images/2-001.png",
+        "selectedIconPath": "static/images/2-002.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/plant_grass/index",
+        "iconPath": "static/images/5-001.png",
+        "selectedIconPath": "static/images/5-002.png",
+        "text": "逛逛"
+      },
+      {
+        "pagePath": "pages/order_addcart/order_addcart",
+        "iconPath": "static/images/3-001.png",
+        "selectedIconPath": "static/images/3-002.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "iconPath": "static/images/4-001.png",
+        "selectedIconPath": "static/images/4-002.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取您的位置"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation",
+    "chooseAddress"
+  ],
+  "__usePrivacyCheck__": true,
+  "usingComponents": {
+    "skeleton": "/components/skeleton/index",
+    "base-money": "/components/BaseMoney"
+  }
+}

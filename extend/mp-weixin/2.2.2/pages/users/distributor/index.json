@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "成为分销",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "product-window": "/components/productWindow/index"
+  }
+}

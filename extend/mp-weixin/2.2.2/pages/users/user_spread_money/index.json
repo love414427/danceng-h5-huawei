@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "佣金记录",
+  "usingComponents": {
+    "empty-page": "/components/emptyPage",
+    "time-slot": "/components/timeSlot/index"
+  }
+}

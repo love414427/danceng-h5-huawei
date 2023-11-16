@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "活动专场",
+  "usingComponents": {
+    "password-popup": "/components/passwordPopup/index",
+    "home": "/components/home/index",
+    "empty-page": "/components/emptyPage"
+  }
+}

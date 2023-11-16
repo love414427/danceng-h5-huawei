@@ -1,0 +1,10 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "custom-tab": "/components/customTab",
+    "recommend": "/components/recommend/index",
+    "coupon-list-window": "/components/couponListWindow/index",
+    "addcart-window": "/components/addcartWindow/index"
+  }
+}

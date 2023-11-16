@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "提现",
+  "usingComponents": {
+    "cash": "/components/cash/index",
+    "authorize": "/components/Authorize"
+  }
+}

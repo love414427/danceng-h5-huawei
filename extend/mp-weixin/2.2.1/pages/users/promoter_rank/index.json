@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "推广人排行",
+  "usingComponents": {
+    "authorize": "/components/Authorize"
+  }
+}

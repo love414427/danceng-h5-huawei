@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "发起助力",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "password-popup": "/components/passwordPopup/index",
+    "count-down": "/components/countDown/index",
+    "copy-password": "/components/copyPassword/index",
+    "authorize": "/components/Authorize",
+    "home": "/components/home/index"
+  }
+}

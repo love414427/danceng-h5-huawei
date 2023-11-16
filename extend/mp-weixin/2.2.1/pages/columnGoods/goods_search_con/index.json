@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "搜索商品",
+  "usingComponents": {
+    "waterfalls-flow": "/components/WaterfallsFlow/WaterfallsFlow",
+    "recommend": "/components/recommend/index",
+    "right-slider1": "/components/rightSlider",
+    "right-slider2": "/components/rightSlider/index",
+    "password-popup": "/components/passwordPopup/index",
+    "authorize": "/components/Authorize"
+  }
+}

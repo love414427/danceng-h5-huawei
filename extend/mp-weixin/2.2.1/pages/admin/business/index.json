@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商家管理",
+  "usingComponents": {
+    "shop-list": "/components/shopList/index"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商家入驻",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "verify": "/components/verify/verify"
+  }
+}

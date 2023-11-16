@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "edit-user-modal": "/components/eidtUserModal/index",
+    "privacy-agreement-popup": "/components/privacyAgreementPopup/index"
+  }
+}

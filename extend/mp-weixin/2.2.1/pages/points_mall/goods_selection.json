@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "好物精选",
+  "usingComponents": {
+    "password-popup": "/components/passwordPopup/index",
+    "home": "/components/home/index"
+  }
+}

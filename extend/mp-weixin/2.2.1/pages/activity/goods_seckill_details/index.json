@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "秒杀详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "password-popup": "/components/passwordPopup/index",
+    "specs": "/components/specs/index",
+    "product-con-swiper": "/components/productConSwiper/index",
+    "product-window": "/components/productWindow/index",
+    "user-evaluation": "/components/userEvaluation/index",
+    "home": "/components/home/index",
+    "count-down": "/components/countDown/index",
+    "guarantee-template": "/components/freightGuarantee/index",
+    "copy-password": "/components/copyPassword/index",
+    "authorize": "/components/Authorize"
+  }
+}

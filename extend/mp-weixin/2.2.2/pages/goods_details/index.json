@@ -1,0 +1,19 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarBackgroundColor": "#F2F2F2",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "password-popup": "/components/passwordPopup/index",
+    "product-con-swiper": "/components/productConSwiper/index",
+    "coupon-list-window": "/components/couponListWindow/index",
+    "product-window": "/components/productWindow/index",
+    "user-evaluation": "/components/userEvaluation/index",
+    "share-red-packets": "/components/shareRedPackets/index",
+    "home": "/components/home/index",
+    "guarantee-template": "/components/freightGuarantee/index",
+    "copy-password": "/components/copyPassword/index",
+    "discounts-goods": "/pages/goods_details/discountsGoods",
+    "specs": "/components/specs/index"
+  }
+}

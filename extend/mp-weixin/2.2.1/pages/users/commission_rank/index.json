@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "佣金排行",
+  "usingComponents": {
+    "authorize": "/components/Authorize"
+  }
+}

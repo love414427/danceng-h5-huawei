@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "支付状态",
+  "usingComponents": {
+    "authorize": "/components/Authorize"
+  }
+}

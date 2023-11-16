@@ -1,0 +1,28 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "店铺diy首页",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "authorize": "/components/Authorize",
+    "active-party": "/pages/index/component/activeParty",
+    "header-serch": "/pages/index/component/headerSerch",
+    "bargain": "/pages/index/component/bargain",
+    "coupon": "/pages/index/component/coupon",
+    "blank-page": "/pages/index/component/blankPage",
+    "combination": "/pages/index/component/combination",
+    "customer-service": "/pages/index/component/customerService",
+    "good-list": "/pages/index/component/goodList",
+    "live-broadcast": "/pages/index/component/liveBroadcast",
+    "menus": "/pages/index/component/menus",
+    "news": "/pages/index/component/news",
+    "topic": "/pages/index/component/topic",
+    "presell-list": "/pages/index/component/presellList",
+    "rich-text": "/pages/index/component/richText",
+    "seckill": "/pages/index/component/seckill",
+    "swiper-bg": "/pages/index/component/swiperBg",
+    "picture-cube": "/pages/index/component/pictureCube",
+    "tab-nav": "/pages/index/component/tabNav",
+    "titles": "/pages/index/component/titles"
+  }
+}

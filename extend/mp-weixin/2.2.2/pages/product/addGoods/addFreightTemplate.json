@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "新增运费模板",
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "tip": "/pages/product/components/tip",
+    "areas": "/pages/product/components/areas",
+    "distribution-area": "/pages/product/components/distributionArea",
+    "parcel-area": "/pages/product/components/parcelArea"
+  }
+}

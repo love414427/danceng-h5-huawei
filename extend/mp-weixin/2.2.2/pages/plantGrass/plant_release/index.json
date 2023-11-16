@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "内容发布",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "avatar": "/components/yq-avatar/yq-avatar",
+    "associated": "/pages/plantGrass/components/associated",
+    "participate-topic": "/pages/plantGrass/components/participateTopic",
+    "bindmobile": "/components/bindmobile"
+  }
+}

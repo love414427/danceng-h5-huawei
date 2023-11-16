@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "个人中心",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "password-popup": "/components/passwordPopup/index",
+    "custom-tab": "/components/customTab"
+  }
+}

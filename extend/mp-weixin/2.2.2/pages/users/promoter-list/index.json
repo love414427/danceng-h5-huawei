@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "推广人统计",
+  "usingComponents": {
+    "time-slot": "/components/timeSlot/index"
+  }
+}

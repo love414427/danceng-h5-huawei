@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "核销结果",
+  "usingComponents": {
+    "authorize": "/components/Authorize",
+    "empty-page": "/components/emptyPage"
+  }
+}

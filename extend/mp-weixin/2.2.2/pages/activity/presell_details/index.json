@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "预售商品详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "password-popup": "/components/passwordPopup/index",
+    "specs": "/components/specs/index",
+    "product-con-swiper": "/components/productConSwiper/index",
+    "product-window": "/components/productWindow/index",
+    "coupon-list-window": "/components/couponListWindow/index",
+    "user-evaluation": "/components/userEvaluation/index",
+    "share-red-packets": "/components/shareRedPackets/index",
+    "home": "/components/home/index",
+    "guarantee-template": "/components/freightGuarantee/index",
+    "copy-password": "/components/copyPassword/index"
+  }
+}

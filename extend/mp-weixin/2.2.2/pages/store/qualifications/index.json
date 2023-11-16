@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "店铺资质信息",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser"
+  }
+}

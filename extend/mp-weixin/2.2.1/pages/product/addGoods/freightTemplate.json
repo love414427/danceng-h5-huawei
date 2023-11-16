@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "运费模板",
+  "onReachBottomDistance": 100,
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "search": "/pages/product/components/search",
+    "select-form": "/pages/product/components/selectForm"
+  }
+}

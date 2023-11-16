@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "修改价格-多规格",
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "avatar": "/components/yq-avatar/yq-avatar"
+  }
+}

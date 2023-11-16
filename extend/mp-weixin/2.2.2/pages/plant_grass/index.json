@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "种草社区",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "waterfalls-flow": "/components/plantWaterfallsFlow/WaterfallsFlow",
+    "product-con-swiper": "/components/plantConSwiper/index",
+    "mentioned": "/components/mentioned",
+    "comment": "/components/comment",
+    "custom-tab": "/components/customTab"
+  }
+}

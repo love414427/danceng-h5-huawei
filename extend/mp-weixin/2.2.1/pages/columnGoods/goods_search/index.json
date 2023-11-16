@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索商品",
+  "usingComponents": {
+    "password-popup": "/components/passwordPopup/index",
+    "authorize": "/components/Authorize"
+  }
+}

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/goodList/index"],{"1f49":function(t,i,n){"use strict";(function(t){Object.defineProperty(i,"__esModule",{value:!0}),i.default=void 0;var e=n("26cb"),a=n("f823"),o=n("041f"),u=(n("ddb3"),{computed:(0,e.mapGetters)(["uid","viewColor"]),props:{status:{type:Number,default:0},bastList:{type:Array,default:function(){return[]}},isLogin:{type:Boolean,default:!1}},data:function(){return{}},methods:{goDetail:function(i){var n=this;(0,a.goShopDetail)(i,this.uid).then((function(e){n.isLogin?(0,o.initiateAssistApi)(i.activity_id).then((function(i){var n=i.data.product_assist_set_id;t.hideLoading(),t.navigateTo({url:"/pages/activity/assist_detail/index?id="+n})})).catch((function(i){t.showToast({title:i,icon:"none"})})):(n.$emit("isShowAuth",!0),n.$emit("isAuto",!0))}))}}});i.default=u}).call(this,n("543d")["default"])},"50d1e":function(t,i,n){"use strict";var e=n("f28f"),a=n.n(e);a.a},"9a6c":function(t,i,n){"use strict";n.r(i);var e=n("c3e1"),a=n("aa0c");for(var o in a)["default"].indexOf(o)<0&&function(t){n.d(i,t,(function(){return a[t]}))}(o);n("50d1e");var u=n("f0c5"),c=Object(u["a"])(a["default"],e["b"],e["c"],!1,null,"625e22bf",null,!1,e["a"],void 0);i["default"]=c.exports},aa0c:function(t,i,n){"use strict";n.r(i);var e=n("1f49"),a=n.n(e);for(var o in e)["default"].indexOf(o)<0&&function(t){n.d(i,t,(function(){return e[t]}))}(o);i["default"]=a.a},c3e1:function(t,i,n){"use strict";n.d(i,"b",(function(){return e})),n.d(i,"c",(function(){return a})),n.d(i,"a",(function(){}));var e=function(){var t=this.$createElement;this._self._c},a=[]},f28f:function(t,i,n){}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/goodList/index-create-component',
+    {
+        'components/goodList/index-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("9a6c"))
+        })
+    },
+    [['components/goodList/index-create-component']]
+]);

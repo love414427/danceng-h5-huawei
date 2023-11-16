@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "兑换订单详情",
+  "usingComponents": {
+    "order-goods": "/components/orderGoods/index",
+    "payment": "/components/payment/index"
+  }
+}

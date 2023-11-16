@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "直播列表",
+  "navigationBarBackgroundColor": "#F2F2F2",
+  "usingComponents": {
+    "home": "/components/home/index"
+  }
+}

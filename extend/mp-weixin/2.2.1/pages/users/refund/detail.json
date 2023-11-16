@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "退款详情",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "count-down": "/components/countDown/index"
+  }
+}

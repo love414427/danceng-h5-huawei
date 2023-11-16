@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "个人主页",
+  "usingComponents": {
+    "waterfalls-flow": "/components/plantWaterfallsFlow/WaterfallsFlow",
+    "authorize": "/components/Authorize"
+  }
+}

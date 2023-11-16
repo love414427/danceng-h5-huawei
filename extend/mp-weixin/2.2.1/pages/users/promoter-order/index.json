@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "推广人订单",
+  "usingComponents": {
+    "authorize": "/components/Authorize",
+    "time-slot": "/components/timeSlot/index",
+    "empty-page": "/components/emptyPage"
+  }
+}

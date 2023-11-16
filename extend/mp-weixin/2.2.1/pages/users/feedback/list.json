@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "反馈记录",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "empty-page": "/components/emptyPage"
+  }
+}

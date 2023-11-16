@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "社区短视频",
+  "usingComponents": {
+    "comment": "/components/comment",
+    "mentioned": "/components/mentioned",
+    "authorize": "/components/Authorize"
+  }
+}
